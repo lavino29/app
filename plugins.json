@@ -2,6 +2,16 @@
   {
     "url": "https://raw.githubusercontent.com/lavino29/app/main/Pelisplushd.cs3",
     "status": 1,
-    "version": 1
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Pelisplushd",
+    "internalName": "Pelisplushd",
+    "authors": ["lavino29"],
+    "description": "Plugin propio de Pelisplushd",
+    "repositoryUrl": "https://github.com/lavino29/app",
+    "tvTypes": ["Movie", "TvSeries", "AsianDrama"],
+    "language": "mx",
+    "iconUrl": "",
+    "isAdult": false
   }
 ]
