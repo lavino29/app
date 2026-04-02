@@ -1,0 +1,8 @@
+{
+  "name": "Lavino Repo",
+  "description": "Plugins propios",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lavino29/app/main/plugins.json"
+  ]
+}
